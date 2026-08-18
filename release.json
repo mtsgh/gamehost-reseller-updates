@@ -1,16 +1,9 @@
 {
   "product": "GameHost Reseller",
-  "latest_version": "4.40.13",
-  "minimum_version": "4.40.12",
+  "latest_version": "4.40.14",
+  "minimum_version": "4.40.13",
   "status": "recommended",
-  "message": "GameHost Reseller V4.40.13 est disponible.",
-  "announcement": "Maintenance prévue sur l'infrastructure.",
-  "admin_banner": {
-    "enabled": true,
-    "level": "danger",
-    "title": "Maintenance GameHost",
-    "message": "Une maintenance est prévue ce soir à 23h. Une brève interruption peut avoir lieu."
-  },
-  "published_at": "2026-08-18T13:00:00+02:00",
-  "sha256": "ef41734064991e973187ca6517b1da8faed0a839a4d7b8449cc20bee45cb4ed9"
+  "message": "Une nouvelle version de GameHost Reseller est disponible.",
+  "published_at": "2026-08-18T12:00:00+02:00",
+  "sha256": "bd57d765d97fee97f99369b97ec4289b33300483518601894c449b963126f91d"
 }
