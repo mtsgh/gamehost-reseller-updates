@@ -5,6 +5,6 @@
   "status": "recommended",
   "message": "Une nouvelle version de GameHost Reseller est disponible.",
   "published_at": "2026-08-18T12:00:00+02:00",
-  "release_url": "https://bot.gamehost.fr/release/gamehost-reseller.zip",
+  "release_url": "https://bot.gamehost.fr/releases/gamehost-reseller.zip",
   "sha256": "SHA256_DU_ZIP"
 }
