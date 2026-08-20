@@ -1,7 +1,7 @@
 {
   "product": "GameHost Reseller",
   "latest_version": "4.40.82,
-  "minimum_version": "4.40.82",
+  "minimum_version": "4.40.81",
   "status": "recommended",
   "message": "Une nouvelle version du Live Center sur Dashboard.",
   "published_at": "2026-08-19T02:00:00+02:00",
