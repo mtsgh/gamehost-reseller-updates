@@ -1,10 +1,10 @@
 {
   "product": "GameHost Reseller",
-  "latest_version": "4.40.81",
-  "minimum_version": "4.40.81",
+  "latest_version": "4.40.82,
+  "minimum_version": "4.40.82",
   "status": "recommended",
   "message": "Une nouvelle version du Live Center sur Dashboard.",
   "published_at": "2026-08-19T02:00:00+02:00",
   "release_url": "https://bot.gamehost.fr/api/reseller/release/download",
-  "sha256": "3558c450c8b8b5975cf01d54d6e7cdd2d638def4317ea0eadea864e40fe5dafb"
+  "sha256": "ce4e91d729a3b87ad02b0d1b4f1a93c91aba63993ece66feb24160f3fa8b9035"
 }
