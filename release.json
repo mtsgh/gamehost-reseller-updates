@@ -5,5 +5,5 @@
   "status": "recommended",
   "message": "Une nouvelle version de GameHost Reseller est disponible.",
   "release_url": "https://bot.gamehost.fr/api/reseller/release/download",
-  "sha256": "3459848090f4527e5414daad3bd8a176eb3673d0336fd742ff39e9ec85dc1c6f"
+  "sha256": "23c364631d107585d8ddd69948ec5c8d887c48a2fcf935a432e41bc8a34e3430"
 }
