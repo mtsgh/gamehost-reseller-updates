@@ -1,10 +1,10 @@
 {
   "product": "GameHost Reseller",
-  "latest_version": "4.40.84",
-  "minimum_version": "4.40.83",
+  "latest_version": "4.40.85",
+  "minimum_version": "4.40.84",
   "status": "recommended",
   "message": "Une nouvelle version de GameHost Reseller est disponible.",
   "published_at": "2026-08-21T11:54:00+02:00",
   "release_url": "https://bot.gamehost.fr/api/reseller/release/download",
-  "sha256": "ec4ff0640d764661820d67425adff879a7193b72eed4eeebdf772182a5f62ecd"
+  "sha256": "e786609a1cbec78b4bfd22a1299761a1415dbbd99fd362308888fb8fd42fe5f4"
 }
