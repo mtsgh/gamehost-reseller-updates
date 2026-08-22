@@ -3,7 +3,7 @@
   "latest_version": "4.40.90",
   "minimum_version": "4.40.89",
   "status": "recommended",
-  "message": "Une nouvelle version de GameHost Reseller est disponible.",
+  "message": "Mise à jour de sécurité",
   "published_at": "2026-08-21T11:54:00+02:00",
   "release_url": "https://bot.gamehost.fr/api/reseller/release/download",
   "sha256": "2e2ae91abc1bd90f265dbe70e833a94f419ce2254ef0b2c6223e762df5b469a2"
